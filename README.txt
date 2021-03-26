@@ -1,7 +1,7 @@
 KISS LANGUAGE REPO
 ---
 
-This is https://k1ss.org repo dedicated to language
+This is https://k1sslinux.org repo dedicated to language
 compilers etc.
 
 Because KISS is source based and pretty much every package
